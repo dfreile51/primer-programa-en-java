@@ -4,6 +4,7 @@ public class Prueba {
 
 		System.out.println("Diego Freile Garcia");
 		System.out.println("Leon en 1999");
+		System.out.println("Leon Windows 10");
 
 	}
 
